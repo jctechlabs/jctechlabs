@@ -6,12 +6,18 @@ We help new and established businesses connect their workflows, software, acquis
 
 [Website](https://jctechlabs.com/) · [Interactive work](https://jctechlabs.com/work/) · [Industry solutions](https://jctechlabs.com/industries/) · [Contact](https://jctechlabs.com/contact/)
 
+## Specialized platforms & brand ecosystem
+
+- **[JC TechLabs](https://jctechlabs.com/)**: Enterprise AI automation, custom software engineering, digital performance marketing, and open developer planning calculators.
+- **[JC Fleet](https://jcfleet.com/)**: Intelligent fleet management software built for truck operators and transporters, featuring WhatsApp trip expense intake, bilingual OCR document processing, and trip settlement automation.
+- **[ReputeLabs](https://reputelabs.tech/)**: Full-spectrum online reputation management, Google reviews optimization, verified customer feedback workflows, and brand protection.
+
 ## Core capabilities
 
 - [AI and automation](https://jctechlabs.com/services/ai-automation/): AI integrations, assistants, workflow automation and human-review handoffs.
 - [Custom software engineering](https://jctechlabs.com/services/software/): web applications, SaaS, mobile applications, internal systems and API integrations.
 - [Digital marketing and growth systems](https://jctechlabs.com/services/digital-growth/): acquisition measurement, landing pages, conversion funnels and marketing automation.
-- [Google review management](https://jctechlabs.com/services/google-reviews/): monitoring, response workflows and policy-based reporting. Removal decisions remain with Google; negative sentiment alone is not a removal basis.
+- [Reputation management](https://jctechlabs.com/services/google-reviews/): monitoring, response workflows and policy-based reporting. Removal decisions remain with Google; negative sentiment alone is not a removal basis.
 
 ## Explore the working models
 
